@@ -11,6 +11,5 @@ namespace LottoGame
             Random rndPb = new Random();
             return rndPb.Next(1, 40) == pb;
         }
-
     }
 }

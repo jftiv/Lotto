@@ -15,8 +15,6 @@ namespace LottoGame
                 {
                     numRight += 1;
                 }
-                else continue;
-
             }
             return numRight;
         }
